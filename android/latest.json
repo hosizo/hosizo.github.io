@@ -1,0 +1,11 @@
+{
+  "notes": "新增应用内在线更新：自动检查新版、下载校验、保留记录覆盖升级。",
+  "sha256": "843d4fd5c2324946df997d6495b83df8e69b9675b7e2aac26085a8e8bdc97718",
+  "minSdk": 28,
+  "size": 48075555,
+  "packageName": "cn.hosizo.capture",
+  "versionName": "0.1.1",
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/2-843d4fd5c2324946df997d6495b83df8e69b9675b7e2aac26085a8e8bdc97718.apk",
+  "versionCode": 2,
+  "schemaVersion": 1
+}
