@@ -1,11 +1,11 @@
 {
-  "sha256": "4a4d28af57fdfc6b63cb5a17868f7881a54787e8d041029ebcb7cc28fe000283",
-  "size": 3194128,
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/10-4a4d28af57fdfc6b63cb5a17868f7881a54787e8d041029ebcb7cc28fe000283.apk",
-  "versionCode": 10,
-  "schemaVersion": 1,
-  "notes": "小组件交互细化：计时器增加绿色秒数、呼吸点及暂停反馈；卡片可按编号选择置前、移除与撤销；录音点击即开始，完成保存并可试听；通知发送输入的正文并保留回复；增加轻触反馈与添加组件状态提示。已有实验组件可直接继续测试。小米直接添加与部分桌面振动仍受系统限制，待真机确认。",
-  "versionName": "0.1.9",
+  "minSdk": 28,
   "packageName": "cn.hosizo.capture",
-  "minSdk": 28
+  "schemaVersion": 1,
+  "sha256": "d03bc40ca353f483e477bc3b7b741dbac09c07e5b078bdfc69235f336f494319",
+  "versionName": "0.1.10",
+  "notes": "补齐轻触反馈：点选、导航、评分、选卡、保存/取消、录音/试听、工具选择与设置按钮统一轻震；滑杆跨刻度反馈。尊重系统和应用开关，连续点击限频。桌面振动仍受手机系统限制。",
+  "size": 3194128,
+  "versionCode": 11,
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/11-d03bc40ca353f483e477bc3b7b741dbac09c07e5b078bdfc69235f336f494319.apk"
 }
