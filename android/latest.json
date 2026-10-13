@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
-  "notes": "修复语音转文字入口：主动申请麦克风权限，增加识别状态、重试与具体错误提示，不再强制偏好离线识别。卡片选择改为真正置前，其余卡片全部保留；桌面滑动仍为翻卡，删除需按钮。前台点击触感扩展到输入框等区域。下滑删除的小窗方案待确认；不包含已保存音频转录。",
-  "packageName": "cn.hosizo.capture",
+  "versionName": "0.1.12",
   "minSdk": 28,
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/12-990ba1f413c01f16dfcea8742b96b78988a45ff2d3776311d4565f933c77232b.apk",
-  "sha256": "990ba1f413c01f16dfcea8742b96b78988a45ff2d3776311d4565f933c77232b",
-  "size": 3210644,
-  "versionName": "0.1.11",
-  "versionCode": 12
+  "packageName": "cn.hosizo.capture",
+  "schemaVersion": 1,
+  "versionCode": 13,
+  "notes": "第八项新增桌面卡片小窗：点选只置前，其他卡片保留；下拉到提示“松手删除”再放开才删除，距离不足回弹，可撤销。完成直接回桌面，沿用点击轻触。实时语音识别补充设备端服务检测、45秒无响应退出及诊断信息；仍需手机具备可用的识别服务。",
+  "sha256": "fae6ba7d7e646d7cf77f3c94660a669fc66c527fb3661d6f6b2ead095039ce64",
+  "size": 3227080,
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/13-fae6ba7d7e646d7cf77f3c94660a669fc66c527fb3661d6f6b2ead095039ce64.apk"
 }
