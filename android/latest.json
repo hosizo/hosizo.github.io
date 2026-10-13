@@ -1,11 +1,11 @@
 {
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/5-2aa7150aef0e718925e398fc5f1f5eeb6e33345aaa82ff1909e965a5bf52f9ec.apk",
-  "packageName": "cn.hosizo.capture",
-  "sha256": "2aa7150aef0e718925e398fc5f1f5eeb6e33345aaa82ff1909e965a5bf52f9ec",
-  "notes": "安装包缩小约 92%，减少下载等待；保留原有记录、小部件与在线升级。",
-  "size": 3748750,
+  "notes": "更新优先使用 Mac 公网通道，减少 GitHub 下载缓慢的影响；保留备用检查通道及签名校验。",
+  "versionCode": 6,
+  "size": 3748746,
   "schemaVersion": 1,
   "minSdk": 28,
-  "versionName": "0.1.4",
-  "versionCode": 5
+  "sha256": "367bd85d0420e005abbb1167dc325848b3f1c512804b52b83f13397433f091bf",
+  "versionName": "0.1.5",
+  "packageName": "cn.hosizo.capture",
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/6-367bd85d0420e005abbb1167dc325848b3f1c512804b52b83f13397433f091bf.apk"
 }
