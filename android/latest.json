@@ -1,11 +1,11 @@
 {
-  "versionName": "0.1.12",
-  "minSdk": 28,
-  "packageName": "cn.hosizo.capture",
+  "notes": "桌面按钮触感专项修复：普通小组件按钮通过极小透明窗口执行轻震，操作后留在桌面；原生多选、开关保留系统反馈。撤掉主应用的全局点击震动，保留采集小窗按钮触感。已验证 Android 15 系统执行震动、连续点按和桌面录屏；小米实际手感待体验。",
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/14-ffdeacd7cd6c06313b1ac35b020f8403b62d991d698d2e52670f0fadb8c40410.apk",
   "schemaVersion": 1,
-  "versionCode": 13,
-  "notes": "第八项新增桌面卡片小窗：点选只置前，其他卡片保留；下拉到提示“松手删除”再放开才删除，距离不足回弹，可撤销。完成直接回桌面，沿用点击轻触。实时语音识别补充设备端服务检测、45秒无响应退出及诊断信息；仍需手机具备可用的识别服务。",
-  "sha256": "fae6ba7d7e646d7cf77f3c94660a669fc66c527fb3661d6f6b2ead095039ce64",
-  "size": 3227080,
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/13-fae6ba7d7e646d7cf77f3c94660a669fc66c527fb3661d6f6b2ead095039ce64.apk"
+  "packageName": "cn.hosizo.capture",
+  "minSdk": 28,
+  "versionCode": 14,
+  "size": 3227260,
+  "sha256": "ffdeacd7cd6c06313b1ac35b020f8403b62d991d698d2e52670f0fadb8c40410",
+  "versionName": "0.1.13"
 }
