@@ -1,11 +1,11 @@
 {
+  "sha256": "e27d79ff26514a49709aecce6a27bcc57428b59401b2f4915b9ae978bba69a9d",
   "minSdk": 28,
-  "sha256": "8f99b0dcb70ff6e4410a69fd00dc24044196c1aea5b8e4e57a77164959230fa0",
-  "versionCode": 8,
-  "size": 3176801,
-  "versionName": "0.1.7",
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/8-8f99b0dcb70ff6e4410a69fd00dc24044196c1aea5b8e4e57a77164959230fa0.apk",
+  "versionCode": 9,
   "packageName": "cn.hosizo.capture",
-  "notes": "新增小组件交互实验室：14项可操作测试，涵盖点选撤销、原生多选开关、连续问答、数值评分、展开、列表网格堆栈、计时轮播、文字录音、通知回复及选择器。测试数据与正式记录分开。更新后从首页添加小部件进入实验室，需在桌面新增一个实验组件。",
-  "schemaVersion": 1
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/9-e27d79ff26514a49709aecce6a27bcc57428b59401b2f4915b9ae978bba69a9d.apk",
+  "versionName": "0.1.8",
+  "size": 3196092,
+  "schemaVersion": 1,
+  "notes": "细化小组件交互反馈：开关红绿状态；连续问答同步切换选项；星级金色点亮；列表增加间距和蓝色选中态；卡片支持选择、移除所选与撤销；轮播明确显示播放/暂停状态并加入淡入淡出。黑白灰主体，状态使用颜色高亮。"
 }
