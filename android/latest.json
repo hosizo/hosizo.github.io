@@ -1,11 +1,11 @@
 {
-  "minSdk": 28,
-  "packageName": "cn.hosizo.capture",
   "schemaVersion": 1,
-  "sha256": "d03bc40ca353f483e477bc3b7b741dbac09c07e5b078bdfc69235f336f494319",
-  "versionName": "0.1.10",
-  "notes": "补齐轻触反馈：点选、导航、评分、选卡、保存/取消、录音/试听、工具选择与设置按钮统一轻震；滑杆跨刻度反馈。尊重系统和应用开关，连续点击限频。桌面振动仍受手机系统限制。",
-  "size": 3194128,
-  "versionCode": 11,
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/11-d03bc40ca353f483e477bc3b7b741dbac09c07e5b078bdfc69235f336f494319.apk"
+  "notes": "修复语音转文字入口：主动申请麦克风权限，增加识别状态、重试与具体错误提示，不再强制偏好离线识别。卡片选择改为真正置前，其余卡片全部保留；桌面滑动仍为翻卡，删除需按钮。前台点击触感扩展到输入框等区域。下滑删除的小窗方案待确认；不包含已保存音频转录。",
+  "packageName": "cn.hosizo.capture",
+  "minSdk": 28,
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/12-990ba1f413c01f16dfcea8742b96b78988a45ff2d3776311d4565f933c77232b.apk",
+  "sha256": "990ba1f413c01f16dfcea8742b96b78988a45ff2d3776311d4565f933c77232b",
+  "size": 3210644,
+  "versionName": "0.1.11",
+  "versionCode": 12
 }
