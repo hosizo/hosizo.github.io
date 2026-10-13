@@ -1,11 +1,11 @@
 {
-  "notes": "更新优先使用 Mac 公网通道，减少 GitHub 下载缓慢的影响；保留备用检查通道及签名校验。",
-  "versionCode": 6,
-  "size": 3748746,
-  "schemaVersion": 1,
-  "minSdk": 28,
-  "sha256": "367bd85d0420e005abbb1167dc325848b3f1c512804b52b83f13397433f091bf",
-  "versionName": "0.1.5",
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/7-d9f2b13a69b364d7d4870a225b7d28068caf42cd1d8ef01edc54d034f6f61d7f.apk",
   "packageName": "cn.hosizo.capture",
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/6-367bd85d0420e005abbb1167dc325848b3f1c512804b52b83f13397433f091bf.apk"
+  "versionCode": 7,
+  "size": 3112013,
+  "minSdk": 28,
+  "versionName": "0.1.6",
+  "sha256": "d9f2b13a69b364d7d4870a225b7d28068caf42cd1d8ef01edc54d034f6f61d7f",
+  "notes": "重新设计桌面组件：黑白灰圆角卡片、自适应宽窄布局与更小缩放下限；点选、换题、跳过、回顾翻页直接在桌面完成；文字与录音改为独立输入小窗，保存返回桌面；添加组件等待真实确认，提供小米安卓小部件入口。",
+  "schemaVersion": 1
 }
