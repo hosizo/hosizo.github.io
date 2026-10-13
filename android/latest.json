@@ -1,11 +1,11 @@
 {
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/7-d9f2b13a69b364d7d4870a225b7d28068caf42cd1d8ef01edc54d034f6f61d7f.apk",
-  "packageName": "cn.hosizo.capture",
-  "versionCode": 7,
-  "size": 3112013,
   "minSdk": 28,
-  "versionName": "0.1.6",
-  "sha256": "d9f2b13a69b364d7d4870a225b7d28068caf42cd1d8ef01edc54d034f6f61d7f",
-  "notes": "重新设计桌面组件：黑白灰圆角卡片、自适应宽窄布局与更小缩放下限；点选、换题、跳过、回顾翻页直接在桌面完成；文字与录音改为独立输入小窗，保存返回桌面；添加组件等待真实确认，提供小米安卓小部件入口。",
+  "sha256": "8f99b0dcb70ff6e4410a69fd00dc24044196c1aea5b8e4e57a77164959230fa0",
+  "versionCode": 8,
+  "size": 3176801,
+  "versionName": "0.1.7",
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/8-8f99b0dcb70ff6e4410a69fd00dc24044196c1aea5b8e4e57a77164959230fa0.apk",
+  "packageName": "cn.hosizo.capture",
+  "notes": "新增小组件交互实验室：14项可操作测试，涵盖点选撤销、原生多选开关、连续问答、数值评分、展开、列表网格堆栈、计时轮播、文字录音、通知回复及选择器。测试数据与正式记录分开。更新后从首页添加小部件进入实验室，需在桌面新增一个实验组件。",
   "schemaVersion": 1
 }
