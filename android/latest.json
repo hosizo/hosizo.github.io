@@ -1,11 +1,11 @@
 {
-  "sha256": "e27d79ff26514a49709aecce6a27bcc57428b59401b2f4915b9ae978bba69a9d",
-  "minSdk": 28,
-  "versionCode": 9,
-  "packageName": "cn.hosizo.capture",
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/9-e27d79ff26514a49709aecce6a27bcc57428b59401b2f4915b9ae978bba69a9d.apk",
-  "versionName": "0.1.8",
-  "size": 3196092,
+  "sha256": "4a4d28af57fdfc6b63cb5a17868f7881a54787e8d041029ebcb7cc28fe000283",
+  "size": 3194128,
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/10-4a4d28af57fdfc6b63cb5a17868f7881a54787e8d041029ebcb7cc28fe000283.apk",
+  "versionCode": 10,
   "schemaVersion": 1,
-  "notes": "细化小组件交互反馈：开关红绿状态；连续问答同步切换选项；星级金色点亮；列表增加间距和蓝色选中态；卡片支持选择、移除所选与撤销；轮播明确显示播放/暂停状态并加入淡入淡出。黑白灰主体，状态使用颜色高亮。"
+  "notes": "小组件交互细化：计时器增加绿色秒数、呼吸点及暂停反馈；卡片可按编号选择置前、移除与撤销；录音点击即开始，完成保存并可试听；通知发送输入的正文并保留回复；增加轻触反馈与添加组件状态提示。已有实验组件可直接继续测试。小米直接添加与部分桌面振动仍受系统限制，待真机确认。",
+  "versionName": "0.1.9",
+  "packageName": "cn.hosizo.capture",
+  "minSdk": 28
 }
