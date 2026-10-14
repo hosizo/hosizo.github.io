@@ -1,11 +1,11 @@
 {
-  "notes": "桌面按钮触感专项修复：普通小组件按钮通过极小透明窗口执行轻震，操作后留在桌面；原生多选、开关保留系统反馈。撤掉主应用的全局点击震动，保留采集小窗按钮触感。已验证 Android 15 系统执行震动、连续点按和桌面录屏；小米实际手感待体验。",
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/14-ffdeacd7cd6c06313b1ac35b020f8403b62d991d698d2e52670f0fadb8c40410.apk",
   "schemaVersion": 1,
-  "packageName": "cn.hosizo.capture",
   "minSdk": 28,
-  "versionCode": 14,
-  "size": 3227260,
-  "sha256": "ffdeacd7cd6c06313b1ac35b020f8403b62d991d698d2e52670f0fadb8c40410",
-  "versionName": "0.1.13"
+  "size": 3227256,
+  "versionName": "0.1.14",
+  "sha256": "8689383dc96d44144f7a710bf761771bc6442bcdfa3a6b1322087708dd9298a3",
+  "packageName": "cn.hosizo.capture",
+  "notes": "减轻普通小组件按钮震动：优先使用低强度原生短轻点，不支持时用短低振幅脉冲；原生多选和开关保持原样。移除较强的预定义震动回退，小窗触感统一调轻。",
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/15-8689383dc96d44144f7a710bf761771bc6442bcdfa3a6b1322087708dd9298a3.apk",
+  "versionCode": 15
 }
