@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
+  "sha256": "0d31e03521f5478d0bb868a9a9932852b9741db93ab2b13f650e166a68c48f47",
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/16-0d31e03521f5478d0bb868a9a9932852b9741db93ab2b13f650e166a68c48f47.apk",
+  "versionCode": 16,
   "minSdk": 28,
-  "size": 3227256,
-  "versionName": "0.1.14",
-  "sha256": "8689383dc96d44144f7a710bf761771bc6442bcdfa3a6b1322087708dd9298a3",
+  "notes": "交互实验室扩展至40项：新增14项桌面操作与12项手势小窗，支持分类、搜索和编号直达。新增限额多选、分支问答、批量选择、定额分配、排序置顶、撤销重做、日历，以及范围滑杆、二维坐标、刻度尺、旋钮、拖拽排序、横滑撤销、按住确认、双击、拖放、缩放、数字单位和跨夜时段。保留极轻触感；实验数据独立保存，不进入正式记录。",
+  "versionName": "0.1.15",
   "packageName": "cn.hosizo.capture",
-  "notes": "减轻普通小组件按钮震动：优先使用低强度原生短轻点，不支持时用短低振幅脉冲；原生多选和开关保持原样。移除较强的预定义震动回退，小窗触感统一调轻。",
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/15-8689383dc96d44144f7a710bf761771bc6442bcdfa3a6b1322087708dd9298a3.apk",
-  "versionCode": 15
+  "size": 3351988,
+  "schemaVersion": 1
 }
