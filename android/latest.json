@@ -1,11 +1,11 @@
 {
-  "sha256": "0d31e03521f5478d0bb868a9a9932852b9741db93ab2b13f650e166a68c48f47",
-  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/16-0d31e03521f5478d0bb868a9a9932852b9741db93ab2b13f650e166a68c48f47.apk",
-  "versionCode": 16,
-  "minSdk": 28,
-  "notes": "交互实验室扩展至40项：新增14项桌面操作与12项手势小窗，支持分类、搜索和编号直达。新增限额多选、分支问答、批量选择、定额分配、排序置顶、撤销重做、日历，以及范围滑杆、二维坐标、刻度尺、旋钮、拖拽排序、横滑撤销、按住确认、双击、拖放、缩放、数字单位和跨夜时段。保留极轻触感；实验数据独立保存，不进入正式记录。",
-  "versionName": "0.1.15",
   "packageName": "cn.hosizo.capture",
-  "size": 3351988,
-  "schemaVersion": 1
+  "notes": "桌面图形交互：29范围、30二维坐标、31刻度尺、32环形刻度、40时间色带均改为桌面点选；新增41身体感受图、42状态雷达、43精力分配图。图形随点击更新，无可见弹窗，支持16步撤销/重做和极轻触感。点组件标题选择「桌面图形」即可体验。实验数据独立保存。",
+  "size": 3377172,
+  "schemaVersion": 1,
+  "sha256": "955045670f4ebe1e50fbcd5b46ed8de6075ed7ded8bd6349c58b668288dba95f",
+  "versionCode": 17,
+  "versionName": "0.1.16",
+  "minSdk": 28,
+  "url": "https://raw.githubusercontent.com/hosizo/hosizo.github.io/main/android/17-955045670f4ebe1e50fbcd5b46ed8de6075ed7ded8bd6349c58b668288dba95f.apk"
 }
